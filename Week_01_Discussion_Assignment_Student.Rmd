@@ -1,0 +1,26 @@
+---
+title: 'A mini biography for '
+author: "MAGGIE SCHWEIHS"
+output: word_document
+---
+
+## Let me introduce myself to you. 
+
+- I was recently a Systems Administrator for the United States Property and Fiscal Office in Camp Douglas, Wisconsin.
+- I earned a BS in Mathematics in 2012. 
+- I also work as a member of the Wisconsin National Guard as a Communications Officer.
+- I recently moved from beautiful Baraboo, WI to the Southern California Desert: Twentynine Palms. I will hopefully be moving to Japan in December.
+
+### Why I want to learn about data science: 
+
+I want to learn about data science because there is huge potential for data driven decision making in just about every realm of life including health care, civil engineering, and research. Data Science is a new frontier and I am excited to be a part of an emerging field. I think learning data science will provide a fulfilling career full of diverse opportunities.
+
+#### What is your background in statistics?
+
+In college, I took several statistics classes: Elementary Stats, Statistical Methods with Applications (calculus based), and Statistics and Probability(extensive use of mini tab). Since undergraduate studies, I have not done many statistics projects, however I was able to brush up on some statistics during DS 710 Programming for Data Science.
+
+ 
+
+
+
+
